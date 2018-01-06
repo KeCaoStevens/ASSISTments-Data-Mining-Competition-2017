@@ -2,7 +2,7 @@
 """
 Created on Sun Dec 24 10:01:28 2017
 
-@author: dongg
+@author: KeCao
 """
 
 #MLP
